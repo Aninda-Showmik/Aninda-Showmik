@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Full-stack web devevelopment**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aninda-Showmik/Aninda-Showmik](https://github.com/Aninda-Showmik/Aninda-Showmik)
+- 👨‍💻 All of my projects are available at [https://github.com/Aninda-Showmik/Aninda-Showmik](https://github.com/Aninda-Showmik)
 
 - 💬 Ask me about **C,C++,Python, HTML5, CSS, JS**
 
